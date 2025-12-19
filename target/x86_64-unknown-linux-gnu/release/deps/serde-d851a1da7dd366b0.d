@@ -1,0 +1,14 @@
+/home/dirk/devel/rust/kpasscli/target/x86_64-unknown-linux-gnu/release/deps/serde-d851a1da7dd366b0.d: /home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/dirk/devel/rust/kpasscli/target/x86_64-unknown-linux-gnu/release/build/serde-5d4428674f9bbc5a/out/private.rs
+
+/home/dirk/devel/rust/kpasscli/target/x86_64-unknown-linux-gnu/release/deps/libserde-d851a1da7dd366b0.rlib: /home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/dirk/devel/rust/kpasscli/target/x86_64-unknown-linux-gnu/release/build/serde-5d4428674f9bbc5a/out/private.rs
+
+/home/dirk/devel/rust/kpasscli/target/x86_64-unknown-linux-gnu/release/deps/libserde-d851a1da7dd366b0.rmeta: /home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/dirk/devel/rust/kpasscli/target/x86_64-unknown-linux-gnu/release/build/serde-5d4428674f9bbc5a/out/private.rs
+
+/home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/home/dirk/devel/rust/kpasscli/target/x86_64-unknown-linux-gnu/release/build/serde-5d4428674f9bbc5a/out/private.rs:
+
+# env-dep:OUT_DIR=/home/dirk/devel/rust/kpasscli/target/x86_64-unknown-linux-gnu/release/build/serde-5d4428674f9bbc5a/out

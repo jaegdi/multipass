@@ -1,0 +1,14 @@
+/home/dirk/devel/rust/kpasscli/target/x86_64-unknown-linux-gnu/release/deps/thiserror-43675309312ec5ab.d: /home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/lib.rs /home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/aserror.rs /home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/display.rs /home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/var.rs /home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/private.rs /home/dirk/devel/rust/kpasscli/target/x86_64-unknown-linux-gnu/release/build/thiserror-74f709fcf17ce811/out/private.rs
+
+/home/dirk/devel/rust/kpasscli/target/x86_64-unknown-linux-gnu/release/deps/libthiserror-43675309312ec5ab.rlib: /home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/lib.rs /home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/aserror.rs /home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/display.rs /home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/var.rs /home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/private.rs /home/dirk/devel/rust/kpasscli/target/x86_64-unknown-linux-gnu/release/build/thiserror-74f709fcf17ce811/out/private.rs
+
+/home/dirk/devel/rust/kpasscli/target/x86_64-unknown-linux-gnu/release/deps/libthiserror-43675309312ec5ab.rmeta: /home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/lib.rs /home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/aserror.rs /home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/display.rs /home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/var.rs /home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/private.rs /home/dirk/devel/rust/kpasscli/target/x86_64-unknown-linux-gnu/release/build/thiserror-74f709fcf17ce811/out/private.rs
+
+/home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/lib.rs:
+/home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/aserror.rs:
+/home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/display.rs:
+/home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/var.rs:
+/home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/private.rs:
+/home/dirk/devel/rust/kpasscli/target/x86_64-unknown-linux-gnu/release/build/thiserror-74f709fcf17ce811/out/private.rs:
+
+# env-dep:OUT_DIR=/home/dirk/devel/rust/kpasscli/target/x86_64-unknown-linux-gnu/release/build/thiserror-74f709fcf17ce811/out

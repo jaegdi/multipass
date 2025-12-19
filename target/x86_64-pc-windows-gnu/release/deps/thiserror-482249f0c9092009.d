@@ -1,0 +1,14 @@
+/home/dirk/devel/rust/kpasscli/target/x86_64-pc-windows-gnu/release/deps/thiserror-482249f0c9092009.d: /home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/lib.rs /home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/aserror.rs /home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/display.rs /home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/var.rs /home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/private.rs /home/dirk/devel/rust/kpasscli/target/x86_64-pc-windows-gnu/release/build/thiserror-d61e7bc15bb8164c/out/private.rs
+
+/home/dirk/devel/rust/kpasscli/target/x86_64-pc-windows-gnu/release/deps/libthiserror-482249f0c9092009.rlib: /home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/lib.rs /home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/aserror.rs /home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/display.rs /home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/var.rs /home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/private.rs /home/dirk/devel/rust/kpasscli/target/x86_64-pc-windows-gnu/release/build/thiserror-d61e7bc15bb8164c/out/private.rs
+
+/home/dirk/devel/rust/kpasscli/target/x86_64-pc-windows-gnu/release/deps/libthiserror-482249f0c9092009.rmeta: /home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/lib.rs /home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/aserror.rs /home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/display.rs /home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/var.rs /home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/private.rs /home/dirk/devel/rust/kpasscli/target/x86_64-pc-windows-gnu/release/build/thiserror-d61e7bc15bb8164c/out/private.rs
+
+/home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/lib.rs:
+/home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/aserror.rs:
+/home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/display.rs:
+/home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/var.rs:
+/home/dirk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/private.rs:
+/home/dirk/devel/rust/kpasscli/target/x86_64-pc-windows-gnu/release/build/thiserror-d61e7bc15bb8164c/out/private.rs:
+
+# env-dep:OUT_DIR=/home/dirk/devel/rust/kpasscli/target/x86_64-pc-windows-gnu/release/build/thiserror-d61e7bc15bb8164c/out
